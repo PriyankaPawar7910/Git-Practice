@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello  World from File 1. Welcome!!
+=======
+Hello  World from File 1. Good morning!!
+>>>>>>> feature
