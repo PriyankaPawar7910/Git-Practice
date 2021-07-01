@@ -1,1 +1,2 @@
 Hello from File 2
+welcome to Git tutorial 
